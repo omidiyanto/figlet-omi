@@ -10,3 +10,4 @@ figlet -f /usr/share/figlet-fonts/ansi-shadow "TEST"
 echo "test slant"
 figlet -f /usr/share/figlet-fonts/slant "TEST"
 echo "Install finish"
+ 
