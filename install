@@ -2,7 +2,7 @@
 sudo git clone https://github.com/omidiyanto/figlet-omi.git
 sudo chmod -R 777 figlet-omi
 sudo mv figlet-omi/figlet /usr/bin/figlet
-sudo mv figlet-omi/* /usr/share/figlet-fonts/.
+sudo mv figlet-omi/* /usr/share/figlet-fonts/
 sudo rm -rf figlet-omi
 echo "test ansi-shadow"
 figlet -f /usr/share/figlet-fonts/ansi-shadow "TEST"
